@@ -14,10 +14,10 @@ Arthur Samuel (1959)
 
 ## Machine Learning Algorithms
 
-[Supervised Learning](Machine%20Learning%20ca494463ec1b4415911df4ad29ad0f28/Supervised%20Learning%20191aaa8db70c4c0db560964ee4d0f6c9.md)
+[Supervised Learning](Machine%20Learning/Supervised%20Learning.md)
 
-[Unsupervised Learning](Machine%20Learning%20ca494463ec1b4415911df4ad29ad0f28/Unsupervised%20Learning%20075c2798bf4c4ea6b46978e887238ecf.md)
+[Unsupervised Learning](Machine%20Learning/Unsupervised%20Learning.md)
 
-[Recommender Systems](Machine%20Learning%20ca494463ec1b4415911df4ad29ad0f28/Recommender%20Systems%2015e2cefaefb64d4c836d88661aade345.md)
+[Recommender Systems](Machine%20Learning/Recommender%20Systems.md)
 
-[Reinforcement Learning](Machine%20Learning%20ca494463ec1b4415911df4ad29ad0f28/Reinforcement%20Learning%20b4be036bd0a248d8b78127e9fd838eba.md)
+[Reinforcement Learning](Machine%20Learning/Reinforcement%20Learning.md)
