@@ -6,7 +6,7 @@
 
 แล้ว Machine learning คืออะไร?
 
-> “Field of study that gives computers the ability to learn without being explicitly programmed.” 
+> “Field of study that gives computers the ability to learn without being explicitly programmed.”<br/>
 Arthur Samuel (1959)
 > 
 
